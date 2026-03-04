@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Tarea 3.2\A3.2\A3.2\bin\Debug\net10.0\A3.2.exe
+C:\Users\HP\Desktop\Tarea 3.2\A3.2\A3.2\bin\Debug\net10.0\A3.2.deps.json
+C:\Users\HP\Desktop\Tarea 3.2\A3.2\A3.2\bin\Debug\net10.0\A3.2.runtimeconfig.json
+C:\Users\HP\Desktop\Tarea 3.2\A3.2\A3.2\bin\Debug\net10.0\A3.2.dll
+C:\Users\HP\Desktop\Tarea 3.2\A3.2\A3.2\bin\Debug\net10.0\A3.2.pdb
+C:\Users\HP\Desktop\Tarea 3.2\A3.2\A3.2\obj\Debug\net10.0\A3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Tarea 3.2\A3.2\A3.2\obj\Debug\net10.0\A3.2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Tarea 3.2\A3.2\A3.2\obj\Debug\net10.0\A3.2.AssemblyInfo.cs
+C:\Users\HP\Desktop\Tarea 3.2\A3.2\A3.2\obj\Debug\net10.0\A3.2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Tarea 3.2\A3.2\A3.2\obj\Debug\net10.0\A3.2.dll
+C:\Users\HP\Desktop\Tarea 3.2\A3.2\A3.2\obj\Debug\net10.0\refint\A3.2.dll
+C:\Users\HP\Desktop\Tarea 3.2\A3.2\A3.2\obj\Debug\net10.0\A3.2.pdb
+C:\Users\HP\Desktop\Tarea 3.2\A3.2\A3.2\obj\Debug\net10.0\A3.2.genruntimeconfig.cache
+C:\Users\HP\Desktop\Tarea 3.2\A3.2\A3.2\obj\Debug\net10.0\ref\A3.2.dll
